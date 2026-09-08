@@ -17,3 +17,25 @@
  ## Syncronization
 
  This README was updated in the original local repository.
+
+ ## Prerequisites
+
+ - A GitHub account
+ - Git installed
+ - A terminal
+ - VS Code
+
+ ## Project Structure
+
+     coretech-github-praxis/
+     - README.md
+     - .gitignore
+     - notes.txt
+
+## Next Steps
+
+- Practice pulling remote changes
+- Resolve a merge conflict
+- Document the Git workflow
+
+ 
