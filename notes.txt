@@ -1,2 +1,3 @@
 GitHub practice notes
-Today I created my first remote repositoty.
+Today I created my first remote repositoty. 
+The repository was cloned successfully.

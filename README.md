@@ -11,5 +11,9 @@
  - notes.txt
 
  ## Purpose
- 
+
  The purpose of this project is to learn how to create, connect and syncronize local and remote Git repositories.
+
+ ## Syncronization
+
+ This README was updated in the original local repository.
