@@ -1,3 +1,4 @@
 GitHub practice notes
 Today I created my first remote repositoty. 
 The repository was cloned successfully.
+This line was added directly on GitHub.
