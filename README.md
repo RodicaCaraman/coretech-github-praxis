@@ -1,4 +1,4 @@
-# Coretech GitHub Praxis
+# Coretech GitHub Main Branch Practice
 
  ## Short Description
 
