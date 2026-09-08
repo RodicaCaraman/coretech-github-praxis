@@ -1,4 +1,4 @@
-# Coretech GitHub Praxis
+# Coretech GitHub Feature Practice
 
  ## Short Description
 
