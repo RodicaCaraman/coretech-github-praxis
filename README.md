@@ -1,2 +1,15 @@
 # Coretech GitHub Praxis
- This repository is for practicing Git and GitHub
+
+ ## Short Description
+
+ This repository is for practicing Git and GitHub.
+
+ ## Repository content
+
+ - README.md
+ - .gitignore
+ - notes.txt
+
+ ## Purpose
+ 
+ The purpose of this project is to learn how to create, connect and syncronize local and remote Git repositories.
